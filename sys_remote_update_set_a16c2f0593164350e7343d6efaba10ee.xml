@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-07-24 05:20:21">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<application_name>IT Asset Management</application_name>
+<application_scope>x_2179393_it_ass_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0cfe13a893524f10e7343d6efaba10bd</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>a16c2f0593164350e7343d6efaba10ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_99fe93a893524f10e7343d6efaba10e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99fe93a893524f10e7343d6efaba10e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>15fe93a893524f10e7343d6efaba10dc</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_permission_99fe93a893524f10e7343d6efaba10e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>1745774728</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>316c6f0593164350e7343d6efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7acc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>15fe93a893524f10e7343d6efaba10dc</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>55fe93a82f524f101f9609dcdf4211f4</update_guid>
+<update_guid_history>55fe93a82f524f101f9609dcdf4211f4:1745774728</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_2179393_it_ass_0_request__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="IT Asset Management Request" language="en" table="x_2179393_it_ass_0_request"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>IT Asset Management Request</label><language>en</language><name>x_2179393_it_ass_0_request</name><plural>IT Asset Management Requests</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:33</sys_created_on><sys_id>88fe53a893524f10e7343d6efaba1014</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Asset Management Request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_documentation_x_2179393_it_ass_0_request__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:33</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1341442071</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>316c6f0593164350e7343d6efaba1072</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b695a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_15fe93a893524f10e7343d6efaba10be</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="IT Asset Management Audience">41fe93a893524f10e7343d6efaba10a3</applicability><list display_value="Open - Unassigned">5dfe93a893524f10e7343d6efaba10ba</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_id>15fe93a893524f10e7343d6efaba10be</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_15fe93a893524f10e7343d6efaba10be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>491889541</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>316c6f0593164350e7343d6efaba1077</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b795c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>ddfe93a8d8524f1051d2a6f521c419bf</update_guid>
+<update_guid_history>ddfe93a8d8524f1051d2a6f521c419bf:491889541</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_29fed3a893524f10e7343d6efaba104d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Closed Last 30 Days","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"8x2fbils","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>29fed3a893524f10e7343d6efaba104d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_29fed3a893524f10e7343d6efaba104d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>1951218133</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>356c6f0593164350e7343d6efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b82ff0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>75fed3a8c4524f101edcc177f0d74bdf</update_guid>
+<update_guid_history>75fed3a8c4524f101edcc177f0d74bdf:1951218133,e5fed3a8b3524f10040058f16faf054f:-1346925879</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_bcfe93a893524f10e7343d6efaba1036</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2179393_it_ass_0_request</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>bcfe93a893524f10e7343d6efaba1036</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_security_acl_bcfe93a893524f10e7343d6efaba1036</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>998241674</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>356c6f0593164350e7343d6efaba1073</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b747a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>74fe93a846524f1037fd167f23c5e83c</update_guid>
+<update_guid_history>74fe93a846524f1037fd167f23c5e83c:998241674</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_5dfe93a893524f10e7343d6efaba10ba</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="IT Asset Management Requests">cdfe93a893524f10e7343d6efaba109c</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_2179393_it_ass_0_request">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>200</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5dfe93a893524f10e7343d6efaba10ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_list_5dfe93a893524f10e7343d6efaba10ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><table>x_2179393_it_ass_0_request</table><title>Open - Unassigned</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>-2023552787</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>356c6f0593164350e7343d6efaba1078</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b79380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>Open - Unassigned</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>99fe93a832524f1020a3bb695607c3bc</update_guid>
+<update_guid_history>99fe93a832524f1020a3bb695607c3bc:-2023552787</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_65fed3a893524f10e7343d6efaba1059</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=true^assigned_toISEMPTY","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"dee19bvq","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>65fed3a893524f10e7343d6efaba1059</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_65fed3a893524f10e7343d6efaba1059</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1997745024</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>396c6f0593164350e7343d6efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7d930000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>25fed3a816524f1046f350fa9ba4545b</update_guid>
+<update_guid_history>25fed3a816524f1046f350fa9ba4545b:-1997745024</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_b0fe93a893524f10e7343d6efaba103e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>b0fe93a893524f10e7343d6efaba103e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_security_acl display_value="x_2179393_it_ass_0_request">bcfe93a893524f10e7343d6efaba1036</sys_security_acl><sys_update_name>sys_security_acl_role_b0fe93a893524f10e7343d6efaba103e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><sys_user_role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-529518716</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>396c6f0593164350e7343d6efaba1074</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b74cd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>f4fe93a8db524f10bc86d5933784e244</update_guid>
+<update_guid_history>f4fe93a8db524f10bc86d5933784e244:-529518716</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_d9fe93a893524f10e7343d6efaba10c1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="IT Asset Management Requests">cdfe93a893524f10e7343d6efaba109c</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_2179393_it_ass_0_request">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>300</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9fe93a893524f10e7343d6efaba10c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_list_d9fe93a893524f10e7343d6efaba10c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><table>x_2179393_it_ass_0_request</table><title>Closed</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>-1423509709</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>396c6f0593164350e7343d6efaba1079</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b797d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>Closed</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>19fe93a8c3524f10eaf9f409250089c3</update_guid>
+<update_guid_history>19fe93a8c3524f10eaf9f409250089c3:-1423509709</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sn_creatorstudio_request_app_config_4dfe93a893524f10e7343d6efaba1084</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config"><sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE"><color>grouped-blue</color><icon>vacation-outline</icon><is_deleting>false</is_deleting><name>IT Asset Management</name><request_table>x_2179393_it_ass_0_request</request_table><sys_class_name>sn_creatorstudio_request_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>4dfe93a893524f10e7343d6efaba1084</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Asset Management</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sn_creatorstudio_request_app_config_4dfe93a893524f10e7343d6efaba1084</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on></sn_creatorstudio_request_app_config></record_update>]]></payload>
+<payload_hash>-2141295622</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>3d6c6f0593164350e7343d6efaba1070</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b77120000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>IT Asset Management</target_name>
+<type>Request App Config</type>
+<update_domain>global</update_domain>
+<update_guid>45fe93a8e2524f10d24873f15af53488</update_guid>
+<update_guid_history>45fe93a8e2524f10d24873f15af53488:-2141295622</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_ef002b2c93524f10e7343d6efaba1018</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Notes" section_id="ef002b2c93524f10e7343d6efaba1018" sys_domain="global" table="x_2179393_it_ass_0_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2b002b2c93524f10e7343d6efaba101c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">ef002b2c93524f10e7343d6efaba1018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2f002b2c93524f10e7343d6efaba101a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">ef002b2c93524f10e7343d6efaba1018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>ab002b2c93524f10e7343d6efaba101b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Notes" display_value="Notes" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">ef002b2c93524f10e7343d6efaba1018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Notes</caption><header>false</header><name>x_2179393_it_ass_0_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ef002b2c93524f10e7343d6efaba1018</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy>read</sys_policy><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ui_section_ef002b2c93524f10e7343d6efaba1018</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>514176327</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>3d6c6f0593164350e7343d6efaba1075</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5fdf5a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>2b002b2c91524f10eee0adc192a9ae1f</update_guid>
+<update_guid_history>2b002b2c91524f10eee0adc192a9ae1f:514176327</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_88fe13a893524f10e7343d6efaba10b6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>CS</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>IT Asset Management</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_2179393_it_ass_0</scope><scoped_administration>false</scoped_administration><short_description/><source>x_2179393_it_ass_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:33</sys_created_on><sys_id>88fe13a893524f10e7343d6efaba10b6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:33</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=88fe13a893524f10e7343d6efaba10b6"/></record_update>]]></payload>
+<payload_hash>1584877740</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>716c6f0593164350e7343d6efaba1071</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b667d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>IT Asset Management</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>ccfe13a897524f102f99de8ce41b00f4</update_guid>
+<update_guid_history>ccfe13a897524f102f99de8ce41b00f4:1584877740</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_7cfe93a893524f10e7343d6efaba102b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Provides access to IT Asset Management Request</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_2179393_it_ass_0.agent</name><scoped_admin>false</scoped_admin><suffix>agent</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:36</sys_created_on><sys_id>7cfe93a893524f10e7343d6efaba102b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_user_role_7cfe93a893524f10e7343d6efaba102b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:36</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>150552190</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>716c6f0593164350e7343d6efaba1076</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b73ef0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>x_2179393_it_ass_0.agent</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>7cfe93a842524f10793ff4b03e1a6134</update_guid>
+<update_guid_history>7cfe93a842524f10793ff4b03e1a6134:150552190</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_99fed3a893524f10e7343d6efaba1008</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>99fed3a893524f10e7343d6efaba1008</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_tab_99fed3a893524f10e7343d6efaba1008</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>573225102</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>756c6f0593164350e7343d6efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7c630000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>Tab</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>11fed3a8a3524f105637141b346e5b3e</update_guid>
+<update_guid_history>11fed3a8a3524f105637141b346e5b3e:573225102</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_metadata_link_ddfe93a893524f10e7343d6efaba10fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_metadata_link"&gt;&lt;sys_metadata_link action="INSERT_OR_UPDATE"&gt;&lt;directory&gt;update&lt;/directory&gt;&lt;documentkey&gt;91fe93a893524f10e7343d6efaba10f6&lt;/documentkey&gt;&lt;payload&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="par_dashboard_user_metadata"&gt;&lt;par_dashboard_user_metadata action="INSERT_OR_UPDATE"&gt;&lt;background_color/&gt;&lt;cache_expiration_time&gt;0&lt;/cache_expiration_time&gt;&lt;card_bg_image/&gt;&lt;created_by_user display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/created_by_user&gt;&lt;created_on&gt;2026-07-22 15:04:38&lt;/created_on&gt;&lt;dashboard display_value="IT Asset Management Requests"&gt;15fe93a893524f10e7343d6efaba10dc&lt;/dashboard&gt;&lt;edit_locked/&gt;&lt;enable_data_cache&gt;false&lt;/enable_data_cache&gt;&lt;include_custom_insights&gt;true&lt;/include_custom_insights&gt;&lt;include_key_contributors&gt;true&lt;/include_key_contributors&gt;&lt;include_kpi_signals&gt;true&lt;/include_kpi_signals&gt;&lt;include_predictive_target&gt;true&lt;/include_predictive_target&gt;&lt;include_predictive_thresholds&gt;true&lt;/include_predictive_thresholds&gt;&lt;include_process_mining&gt;true&lt;/include_process_mining&gt;&lt;include_severity&gt;true&lt;/include_severity&gt;&lt;include_target&gt;true&lt;/include_target&gt;&lt;include_thresholds&gt;true&lt;/include_thresholds&gt;&lt;include_trends&gt;true&lt;/include_trends&gt;&lt;include_widget_notification&gt;true&lt;/include_widget_notification&gt;&lt;last_deactivated_on/&gt;&lt;last_updated_on&gt;2026-07-22 15:04:38&lt;/last_updated_on&gt;&lt;po_project_id_list/&gt;&lt;refresh_information&gt;false&lt;/refresh_information&gt;&lt;refresh_interval/&gt;&lt;requested_by_user/&gt;&lt;schedule_repetition&gt;false&lt;/schedule_repetition&gt;&lt;show_insights_panel&gt;true&lt;/show_insights_panel&gt;&lt;sys_class_name&gt;par_dashboard_user_metadata&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-07-22 15:04:38&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;91fe93a893524f10e7343d6efaba10f6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0"&gt;88fe13a893524f10e7343d6efaba10b6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="IT Asset Management"&gt;88fe13a893524f10e7343d6efaba10b6&lt;/sys_scope&gt;&lt;sys_update_name&gt;par_dashboard_user_metadata_91fe93a893524f10e7343d6efaba10f6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-07-22 15:04:38&lt;/sys_updated_on&gt;&lt;updated_by_user display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/updated_by_user&gt;&lt;use_custom_tab_colors&gt;false&lt;/use_custom_tab_colors&gt;&lt;widgets_margin&gt;$now-global-space--sm&lt;/widgets_margin&gt;&lt;/par_dashboard_user_metadata&gt;&lt;/record_update&gt;]]&gt;&lt;/payload&gt;&lt;sys_class_name&gt;sys_metadata_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-07-22 15:04:38&lt;/sys_created_on&gt;&lt;sys_id&gt;ddfe93a893524f10e7343d6efaba10fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0"&gt;88fe13a893524f10e7343d6efaba10b6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="IT Asset Management"&gt;88fe13a893524f10e7343d6efaba10b6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_metadata_link_ddfe93a893524f10e7343d6efaba10fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-07-22 15:04:38&lt;/sys_updated_on&gt;&lt;tablename&gt;par_dashboard_user_metadata&lt;/tablename&gt;&lt;/sys_metadata_link&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1757740755</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>756c6f0593164350e7343d6efaba1072</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7b890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>Metadata Snapshot</type>
+<update_domain>global</update_domain>
+<update_guid>d1fed3a808524f10dfc43e80a720e801</update_guid>
+<update_guid_history>d1fed3a808524f10dfc43e80a720e801:1757740755</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_19fe93a893524f10e7343d6efaba10b5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="IT Asset Management Audience">41fe93a893524f10e7343d6efaba10a3</applicability><list display_value="Open">85fe93a893524f10e7343d6efaba10a9</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_id>19fe93a893524f10e7343d6efaba10b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_19fe93a893524f10e7343d6efaba10b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>-1757986762</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>756c6f0593164350e7343d6efaba1077</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b79120000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>9dfe93a875524f1030ea76fb77e26cb8</update_guid>
+<update_guid_history>9dfe93a875524f1030ea76fb77e26cb8:-1757986762</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_2dfed3a893524f10e7343d6efaba1055</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2dfed3a893524f10e7343d6efaba1055</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_2dfed3a893524f10e7343d6efaba1055</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1524833828</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>796c6f0593164350e7343d6efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7d720000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>e9fed3a875524f10ce15434abc2e4c57</update_guid>
+<update_guid_history>e9fed3a875524f10ce15434abc2e4c57:-1524833828</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_c9fe93a893524f10e7343d6efaba1046</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2179393_it_ass_0_request</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>c9fe93a893524f10e7343d6efaba1046</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_security_acl_c9fe93a893524f10e7343d6efaba1046</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-2091324806</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>796c6f0593164350e7343d6efaba1073</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75050000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>c1fe93a853524f10eb82ba6ccc83964a</update_guid>
+<update_guid_history>c1fe93a853524f10eb82ba6ccc83964a:-2091324806</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_85fe93a893524f10e7343d6efaba10a9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="IT Asset Management Requests">cdfe93a893524f10e7343d6efaba109c</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition table="x_2179393_it_ass_0_request">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>100</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>85fe93a893524f10e7343d6efaba10a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_list_85fe93a893524f10e7343d6efaba10a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><table>x_2179393_it_ass_0_request</table><title>Open</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>1509867803</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>796c6f0593164350e7343d6efaba1078</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b78df0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>Open</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>d9fe93a80d524f10bb289c496c51b7b3</update_guid>
+<update_guid_history>d9fe93a80d524f10bb289c496c51b7b3:1509867803</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_adfed3a893524f10e7343d6efaba105c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Closed Last 30 Days","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"8x2fbils","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>adfed3a893524f10e7343d6efaba105c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_adfed3a893524f10e7343d6efaba105c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-1346925879</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>7d6c6f0593164350e7343d6efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7db30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>6dfed3a865524f108acced327448415e</update_guid>
+<update_guid_history>6dfed3a865524f108acced327448415e:-1346925879</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_c5fe93a893524f10e7343d6efaba1063</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>c5fe93a893524f10e7343d6efaba1063</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_security_acl display_value="x_2179393_it_ass_0_request">45fe93a893524f10e7343d6efaba105e</sys_security_acl><sys_update_name>sys_security_acl_role_c5fe93a893524f10e7343d6efaba1063</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><sys_user_role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1547223479</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>7d6c6f0593164350e7343d6efaba1074</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>09fe93a890524f108890f8020f242567</update_guid>
+<update_guid_history>09fe93a890524f108890f8020f242567:1547223479</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_e5fed3a893524f10e7343d6efaba1060</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"fdfed3a893524f10e7343d6efaba10c6","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_2179393_it_ass_0_request","headerTitle":"All Active Tasks","columns":"","showRecordCount":true}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e5fed3a893524f10e7343d6efaba1060</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_e5fed3a893524f10e7343d6efaba1060</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-07-22 15:04:40</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>573828674</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b16c6f0593164350e7343d6efaba1070</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b81ad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>f1fed3a8f6524f1014c5df055bfe9aca</update_guid>
+<update_guid_history>f1fed3a8f6524f1014c5df055bfe9aca:573828674,a5fed3a85c524f10bb04aa23fd0ead62:1354188631</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_form_sections_2f00e72c93524f10e7343d6efaba10b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="2f00e72c93524f10e7343d6efaba10b1" sys_domain="global" table="x_2179393_it_ass_0_request" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b002b2c93524f10e7343d6efaba1017</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_2179393_it_ass_0_request" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2f00e72c93524f10e7343d6efaba10b1</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e3002b2c93524f10e7343d6efaba1021</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_2179393_it_ass_0_request" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2f00e72c93524f10e7343d6efaba10b1</sys_ui_form><sys_ui_section caption="Notes" display_value="Notes" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">ef002b2c93524f10e7343d6efaba1018</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_2179393_it_ass_0_request</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2f00e72c93524f10e7343d6efaba10b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ui_form_sections_2f00e72c93524f10e7343d6efaba10b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+<payload_hash>-1855937088</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b16c6f0593164350e7343d6efaba1075</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5fdf8d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Form Sections</type>
+<update_domain>global</update_domain>
+<update_guid>6f002b2c31524f106d686f116274b223</update_guid>
+<update_guid_history>6f002b2c31524f106d686f116274b223:-1855937088,a700e72c71524f10aebd0c33f59feeb5:-1941409312</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_91fed3a893524f10e7343d6efaba1003</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>91fed3a893524f10e7343d6efaba1003</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_canvas_91fed3a893524f10e7343d6efaba1003</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>2053454081</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b56c6f0593164350e7343d6efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7c080000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>95fed3a8c9524f109e31115da1a8a006</update_guid>
+<update_guid_history>95fed3a8c9524f109e31115da1a8a006:2053454081</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_c4fe13a893524f10e7343d6efaba10fa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>true</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>IT Asset Management Request</label><live_feed_enabled>false</live_feed_enabled><name>x_2179393_it_ass_0_request</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Request Task" name="sn_creatorstudio_task">1b20b2fe93c60310e7343d6efaba10fd</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:33</sys_created_on><sys_id>c4fe13a893524f10e7343d6efaba10fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>It Ass 0 Request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_db_object_c4fe13a893524f10e7343d6efaba10fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:33</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>960325683</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b56c6f0593164350e7343d6efaba1071</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b693f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>50fe53a80c524f10c275d7174d3bd631</update_guid>
+<update_guid_history>50fe53a80c524f10c275d7174d3bd631:960325683</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_contains_cdfe93a893524f10e7343d6efaba1076</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains><role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>cdfe93a893524f10e7343d6efaba1076</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_creatorstudio.basic_fulfiller.x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_user_role_contains_cdfe93a893524f10e7343d6efaba1076</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+<payload_hash>1405954257</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b56c6f0593164350e7343d6efaba1076</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b766e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>sn_creatorstudio.basic_fulfiller.x_2179393_it_ass_0.agent</target_name>
+<type>Contained Role</type>
+<update_domain>global</update_domain>
+<update_guid>89fe93a8bf524f10069841b9d3c1607d</update_guid>
+<update_guid_history>89fe93a8bf524f10069841b9d3c1607d:1405954257</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_91fe93a893524f10e7343d6efaba10f6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-07-22 15:04:38</created_on><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-07-22 15:04:41</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>91fe93a893524f10e7343d6efaba10f6</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_user_metadata_91fe93a893524f10e7343d6efaba10f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:41</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>1665446191</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b96c6f0593164350e7343d6efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b86020000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>cefe17a8c0524f10bd9731ff9dfaea46</update_guid>
+<update_guid_history>cefe17a8c0524f10bd9731ff9dfaea46:1665446191,9dfe93a8e2524f10039dced37151d3fb:641791928</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_09fe93a893524f10e7343d6efaba1069</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2179393_it_ass_0_request</name><operation display_value="report_view">0997ab83733303005978e4b9cdf6a7b9</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>09fe93a893524f10e7343d6efaba1069</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_security_acl_09fe93a893524f10e7343d6efaba1069</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1662447625</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>b96c6f0593164350e7343d6efaba1072</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75b60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>01fe93a819524f10c1206b2b59751c6d</update_guid>
+<update_guid_history>01fe93a819524f10c1206b2b59751c6d:-1662447625</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_55fe93a893524f10e7343d6efaba10d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="IT Asset Management Audience">41fe93a893524f10e7343d6efaba10a3</applicability><list display_value="All">d5fe93a893524f10e7343d6efaba10c8</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_id>55fe93a893524f10e7343d6efaba10d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_55fe93a893524f10e7343d6efaba10d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>-1975451026</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>b96c6f0593164350e7343d6efaba1077</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b79d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>11fe93a8e2524f108b87c5ed5474edda</update_guid>
+<update_guid_history>11fe93a8e2524f108b87c5ed5474edda:-1975451026</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_59fed3a893524f10e7343d6efaba1043</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"a6ukoq1r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>59fed3a893524f10e7343d6efaba1043</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_59fed3a893524f10e7343d6efaba1043</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>136502608</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>bd6c6f0593164350e7343d6efaba106e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b84030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>75fe17a8b4524f10ee7be3dcc84f360e</update_guid>
+<update_guid_history>75fe17a8b4524f10ee7be3dcc84f360e:136502608,a1fed3a85f524f1082c3b8ded4277548:-1524833828</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4dfe93a893524f10e7343d6efaba104b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>4dfe93a893524f10e7343d6efaba104b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_security_acl display_value="x_2179393_it_ass_0_request">c9fe93a893524f10e7343d6efaba1046</sys_security_acl><sys_update_name>sys_security_acl_role_4dfe93a893524f10e7343d6efaba104b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><sys_user_role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>149600688</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>bd6c6f0593164350e7343d6efaba1073</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75310000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>45fe93a803524f10d7266ee1c0057d5c</update_guid>
+<update_guid_history>45fe93a803524f10d7266ee1c0057d5c:149600688</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_category_cdfe93a893524f10e7343d6efaba109c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><description/><order>100</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cdfe93a893524f10e7343d6efaba109c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Asset Management Requests</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_list_category_cdfe93a893524f10e7343d6efaba109c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><title>IT Asset Management Requests</title></sys_ux_list_category></record_update>]]></payload>
+<payload_hash>1710928004</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>bd6c6f0593164350e7343d6efaba1078</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b782e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table/>
+<target_name>IT Asset Management Requests</target_name>
+<type>UX List Category</type>
+<update_domain>global</update_domain>
+<update_guid>89fe93a841524f10b38a61f65a7d05a0</update_guid>
+<update_guid_history>89fe93a841524f10b38a61f65a7d05a0:1710928004</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_15fe93a893524f10e7343d6efaba10dc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><base_dashboard/><certified>false</certified><description>Requests for IT Asset Management</description><experience/><grid>48</grid><name>IT Asset Management Requests</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>15fe93a893524f10e7343d6efaba10dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Asset Management Requests</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_15fe93a893524f10e7343d6efaba10dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+<payload_hash>-1294261349</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>e96c2f0593164350e7343d6efaba10ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b7a7e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>IT Asset Management Requests</target_name>
+<type>PAR Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>5dfe93a8c1524f10381c515f034b26df</update_guid>
+<update_guid_history>5dfe93a8c1524f10381c515f034b26df:-1294261349</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_61fed3a893524f10e7343d6efaba1051</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="List">7ff373544303121093711347efb8f23c</component><component_props>{"dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":"active=true^active=true","id":"71fed3a893524f10e7343d6efaba10b9","isDatabaseView":false,"preferredVisualizations":[],"sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request"}],"additionalGroupByConfig":[],"allowAdditionalGroupByPerMetric":false,"componentId":"","contextMenuActions":[],"description":"","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","headingLevel":2,"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showAdditionalGroupBySelector":false,"showFilterIcon":true,"showHeaderSeparator":false,"showHeader":true,"showLoadingIndicator":false,"wrapTitle":false,"parFilter":"","parFilterConfig":[],"allowListPagination":true,"columnLimit":0,"limit":10,"maxCharLimit":4000,"columnPreferenceKey":"","bareBorder":false,"wrapCellContent":"useLineBreaksUserPref","showPersonalization":true,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":true,"showColumnSorting":true,"followFilters":true,"groupByField":"","showLinks":true,"showViewAll":true,"showInlineEditing":true,"table":"x_2179393_it_ass_0_request","headerTitle":"All Active Tasks","columns":"","showRecordCount":true}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>61fed3a893524f10e7343d6efaba1051</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_61fed3a893524f10e7343d6efaba1051</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-07-22 15:04:40</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>794850742</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f16c6f0593164350e7343d6efaba106f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b84430000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>bdfe17a8d3524f1038b1c9f2764db817</update_guid>
+<update_guid_history>bdfe17a8d3524f1038b1c9f2764db817:794850742,b1fed3a876524f10c48b94f84975dbbd:1238961986,a1fed3a88c524f10451d5b7d7f182153:1354188631</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_89fe93a893524f10e7343d6efaba106e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>89fe93a893524f10e7343d6efaba106e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_security_acl display_value="x_2179393_it_ass_0_request">09fe93a893524f10e7343d6efaba1069</sys_security_acl><sys_update_name>sys_security_acl_role_89fe93a893524f10e7343d6efaba106e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><sys_user_role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1854403164</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f16c6f0593164350e7343d6efaba1074</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75ee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request.x_2179393_it_ass_0.agent</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c9fe93a88a524f10a087d3618e3c1272</update_guid>
+<update_guid_history>c9fe93a88a524f10a087d3618e3c1272:1854403164</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_list_d5fe93a893524f10e7343d6efaba10c8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="IT Asset Management Requests">cdfe93a893524f10e7343d6efaba109c</category><columns>number,priority,state,assigned_to,short_description,sys_class_name</columns><condition/><configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration><enable_infinite_scroll>false</enable_infinite_scroll><fixed_query/><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>true</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><live_updates>off</live_updates><max_characters>4000</max_characters><order>400</order><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d5fe93a893524f10e7343d6efaba10c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_list_d5fe93a893524f10e7343d6efaba10c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on><table>x_2179393_it_ass_0_request</table><title>All</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></payload>
+<payload_hash>1472834992</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>f16c6f0593164350e7343d6efaba1079</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b79bc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>All</target_name>
+<type>UX List</type>
+<update_domain>global</update_domain>
+<update_guid>15fe93a8f6524f10c962b2047e99ecca</update_guid>
+<update_guid_history>15fe93a8f6524f10c962b2047e99ecca:1472834992</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_edfed3a893524f10e7343d6efaba1049</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="DELETE"><canvas display_value="">5dfed3a893524f10e7343d6efaba103f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"IT Asset Management Request","sourceType":"table","tableOrViewName":"x_2179393_it_ass_0_request","filterQuery":"active=true^assigned_toISEMPTY","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unassigned Open Requests","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=","id":"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"dee19bvq","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":""}</component_props><h>12</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>edfed3a893524f10e7343d6efaba1049</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_widget_edfed3a893524f10e7343d6efaba1049</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:39</sys_updated_on><visualization/><w>16</w><widget_props/><x>16</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>163867276</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f56c6f0593164350e7343d6efaba1070</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b84840000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>bdfe17a8d5524f1067f1614ee2bf6b2d</update_guid>
+<update_guid_history>bdfe17a8d5524f1067f1614ee2bf6b2d:163867276,adfed3a8f1524f10d6845d02d8814c4b:-1997745024</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_2700e72c93524f10e7343d6efaba10b7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2700e72c93524f10e7343d6efaba10b7" sys_domain="global" table="x_2179393_it_ass_0_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>com_glideapp_questionset_default_question_editor.xml</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>ab00e72c93524f10e7343d6efaba10ed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Creator Studio Task Variable Editor">cc6086bfb703211059b8b5208e11a921</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2f00e72c93524f10e7343d6efaba10f3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2b00e72c93524f10e7343d6efaba10ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>ab00e72c93524f10e7343d6efaba10f4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>a700e72c93524f10e7343d6efaba10ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>a7002b2c93524f10e7343d6efaba100e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2700e72c93524f10e7343d6efaba10f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>27002b2c93524f10e7343d6efaba100f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>a300e72c93524f10e7343d6efaba10f1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>a3002b2c93524f10e7343d6efaba1010</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>approval</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>2300e72c93524f10e7343d6efaba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>23002b2c93524f10e7343d6efaba1011</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>af00e72c93524f10e7343d6efaba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_id>a300e72c93524f10e7343d6efaba10ec</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_2179393_it_ass_0_request" sys_domain="global" view="Default view">2700e72c93524f10e7343d6efaba10b7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_2179393_it_ass_0_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:09:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2700e72c93524f10e7343d6efaba10b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy>read</sys_policy><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ui_section_2700e72c93524f10e7343d6efaba10b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:09:26</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1887296726</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f56c6f0593164350e7343d6efaba1075</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5fdf100000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>af002b2c59524f10b80f65aee916e415</update_guid>
+<update_guid_history>af002b2c59524f10b80f65aee916e415:-1887296726</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_5dfed3a893524f10e7343d6efaba103f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><dashboard_tab display_value="Tab">99fed3a893524f10e7343d6efaba1008</dashboard_tab><layout>[{"sys_id":"2dfed3a893524f10e7343d6efaba1055","x":0,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"IT Asset Management Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_2179393_it_ass_0_request\",\"filterQuery\":\"active=true\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Open Requests\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDg5MTc5MTY=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGc1TVRjNU1UWT0xNzAwMTQ4OTE5MDAz\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"a6ukoq1r\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true},{"sys_id":"65fed3a893524f10e7343d6efaba1059","x":16,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"IT Asset Management Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_2179393_it_ass_0_request\",\"filterQuery\":\"active=true^assigned_toISEMPTY\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Unassigned Open Requests\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwMTkxOTM=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TVRreE9UTT0xNzAwMTQ5MDIwMzA2\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"dee19bvq\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true},{"sys_id":"adfed3a893524f10e7343d6efaba105c","x":32,"y":3,"w":16,"h":12,"component_id":"d24d53f60350de7a652caf3188a46ed2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"iconStyle\":\"background\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":false,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"IT Asset Management Request\",\"sourceType\":\"table\",\"tableOrViewName\":\"x_2179393_it_ass_0_request\",\"filterQuery\":\"active=false^closed_atBETWEENjavascript:gs.beginningOfLast30Days()@javascript:gs.endOfToday()\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Closed Last 30 Days\",\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"metrics\":[{\"dataSource\":\"dGFibGV4X2FhX3Rlc3RfYXBwXzFfcmVxdWVzdDE3MDAxNDkwNjIxNDU=\",\"id\":\"ZEdGaWJHVjRYMkZoWDNSbGMzUmZZWEJ3WHpGZmNtVnhkV1Z6ZERFM01EQXhORGt3TmpJeE5EVT0xNzAwMTQ5MDYzMjQz\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"enableCustomEmptyState\":false,\"componentId\":\"8x2fbils\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"userInfo\":\"@context.session.user\",\"enableAddZerosAtApi\":true,\"emptyStateHeadingLevel\":3,\"cacheExpirationTime\":0,\"showLoadingIndicator\":false,\"useDataCache\":false,\"showFilterAsSeparateSeries\":false,\"showCacheTime\":true,\"allowAdditionalGroupByPerMetric\":false,\"showDataTable\":false,\"lineClamp\":1,\"showRefresh\":true,\"useCurrentDateForEnd\":false,\"wrapElements\":false}","can_edit":true},{"sys_id":"e5fed3a893524f10e7343d6efaba1060","x":0,"y":15,"w":48,"h":20,"component_id":"7ff373544303121093711347efb8f23c","component_props":"{\"dataSources\":[{\"allowRealTime\":true,\"dataCategories\":[\"trend\",\"group\",\"simple\"],\"filterQuery\":\"active=true^active=true\",\"id\":\"fdfed3a893524f10e7343d6efaba10c6\",\"isDatabaseView\":false,\"sourceType\":\"table\",\"tableOrViewName\":\"x_2179393_it_ass_0_request\"}],\"allowAdditionalGroupByPerMetric\":false,\"emptyStateAlignment\":\"vertical-centered\",\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateIllustration\":\"no-data\",\"enableCustomEmptyState\":false,\"enableDrilldown\":true,\"enableRealTimeUpdate\":false,\"filterConfigurations\":\"@state.parFilters\",\"headingLevel\":2,\"metrics\":[{\"aggregateFunction\":\"COUNT\",\"axisId\":\"primary\",\"dataSource\":\"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=\",\"id\":\"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==\",\"numberFormat\":{\"customFormat\":false}}],\"showAdditionalGroupBySelector\":false,\"showFilterIcon\":true,\"showHeaderSeparator\":false,\"showHeader\":true,\"showLoadingIndicator\":false,\"wrapTitle\":false,\"allowListPagination\":true,\"columnLimit\":0,\"limit\":10,\"maxCharLimit\":4000,\"bareBorder\":false,\"wrapCellContent\":\"useLineBreaksUserPref\",\"showPersonalization\":true,\"hideDotwalk\":false,\"showColumnReorder\":true,\"showColumnGrouping\":true,\"showColumnResizing\":true,\"showColumnFiltering\":true,\"showColumnSorting\":true,\"followFilters\":true,\"showLinks\":true,\"showViewAll\":true,\"showInlineEditing\":true,\"table\":\"x_2179393_it_ass_0_request\",\"headerTitle\":\"All Active Tasks\",\"showRecordCount\":true,\"sortByOrder\":\"ORDERBY\",\"lineClamp\":1,\"showBorder\":true}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5dfed3a893524f10e7343d6efaba103f</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_canvas_5dfed3a893524f10e7343d6efaba103f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:41</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-355221212</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f96c2f0593164350e7343d6efaba10ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b84d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>39fe17a8d1524f101b39fb15a7f22934</update_guid>
+<update_guid_history>39fe17a8d1524f101b39fb15a7f22934:-355221212,ddfed3a8ac524f103d7e0c1721e96141:-766081953</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_82fe17a893524f10e7343d6efaba103e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>false</can_share><can_write>false</can_write><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><group/><owner>false</owner><role display_value="x_2179393_it_ass_0.agent" name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</role><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>82fe17a893524f10e7343d6efaba103e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>15fe93a893524f10e7343d6efaba10dc</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_permission_82fe17a893524f10e7343d6efaba103e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:41</sys_updated_on><user/></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>-400029424</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f96c6f0593164350e7343d6efaba106c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b859d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>15fe93a893524f10e7343d6efaba10dc</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>4afe17a885524f1080108e91de9a5c40</update_guid>
+<update_guid_history>4afe17a885524f1080108e91de9a5c40:-400029424</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_2179393_it_ass_0_request_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sn_creatorstudio_task" table="x_2179393_it_ass_0_request"><active>true</active><array>false</array><attributes/><audit>true</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_2179393_it_ass_0_request</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:33</sys_created_on><sys_id>0cfe53a893524f10e7343d6efaba1000</sys_id><sys_name>x_2179393_it_ass_0_request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_dictionary_x_2179393_it_ass_0_request_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:34</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>200079263</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f96c6f0593164350e7343d6efaba1071</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b6b250000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>IT Asset Management Request</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>dcfe53a868524f10f26e32072a56f66b</update_guid>
+<update_guid_history>dcfe53a868524f10f26e32072a56f66b:200079263,1cfe53a884524f10edec4532a2f8a52d:-337988086</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_41fe93a893524f10e7343d6efaba10a3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_2179393_it_ass_0.IT Asset Management Audience</api_name><description/><name>IT Asset Management Audience</name><role_names/><roles name="x_2179393_it_ass_0.agent">7cfe93a893524f10e7343d6efaba102b</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41fe93a893524f10e7343d6efaba10a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Asset Management Audience</sys_name><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_applicability_41fe93a893524f10e7343d6efaba10a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+<payload_hash>-556402615</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>f96c6f0593164350e7343d6efaba1076</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b786d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name>IT Asset Management Audience</target_name>
+<type>Audience</type>
+<update_domain>global</update_domain>
+<update_guid>cdfe93a8bf524f10f556de14cb5eb4a6</update_guid>
+<update_guid_history>cdfe93a8bf524f10f556de14cb5eb4a6:-556402615</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_82fe17a893524f10e7343d6efaba1038</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="IT Asset Management Requests">15fe93a893524f10e7343d6efaba10dc</dashboard><experience display_value="Request App Workspace">53ba520177d2311055f78f71ef5a99e8</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>82fe17a893524f10e7343d6efaba1038</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>par_dashboard_visibility_82fe17a893524f10e7343d6efaba1038</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:41</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>1775443671</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>fd6c6f0593164350e7343d6efaba106d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b85480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>4afe17a82c524f101bf7c5379f23073b</update_guid>
+<update_guid_history>4afe17a82c524f101bf7c5379f23073b:1775443671</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_45fe93a893524f10e7343d6efaba105e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_2179393_it_ass_0_request</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:37</sys_created_on><sys_id>45fe93a893524f10e7343d6efaba105e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2179393_it_ass_0_request</sys_name><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_security_acl_45fe93a893524f10e7343d6efaba105e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:37</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-733664164</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:20</sys_created_on>
+<sys_id>fd6c6f0593164350e7343d6efaba1072</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b75610000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:20</sys_updated_on>
+<table>x_2179393_it_ass_0_request</table>
+<target_name>x_2179393_it_ass_0_request</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>4dfe93a8c5524f10dc1bc5ed9480fa61</update_guid>
+<update_guid_history>4dfe93a8c5524f10dc1bc5ed9480fa61:-733664164</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_applicability_m2m_list_91fe93a893524f10e7343d6efaba10c5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="IT Asset Management Audience">41fe93a893524f10e7343d6efaba10a3</applicability><list display_value="Closed">d9fe93a893524f10e7343d6efaba10c1</list><order>0</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-22 15:04:38</sys_created_on><sys_id>91fe93a893524f10e7343d6efaba10c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IT Asset Management" source="x_2179393_it_ass_0">88fe13a893524f10e7343d6efaba10b6</sys_package><sys_policy/><sys_scope display_value="IT Asset Management">88fe13a893524f10e7343d6efaba10b6</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_91fe93a893524f10e7343d6efaba10c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-22 15:04:38</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+<payload_hash>-1456930714</payload_hash>
+<remote_update_set display_value="Default">a16c2f0593164350e7343d6efaba10ee</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-07-24 05:20:21</sys_created_on>
+<sys_id>fd6c6f0593164350e7343d6efaba1077</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19f8a5b799c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-24 05:20:21</sys_updated_on>
+<table/>
+<target_name/>
+<type>List Applicability</type>
+<update_domain>global</update_domain>
+<update_guid>5dfe93a89d524f102da69f469d78dcc6</update_guid>
+<update_guid_history>5dfe93a89d524f102da69f469d78dcc6:-1456930714</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
