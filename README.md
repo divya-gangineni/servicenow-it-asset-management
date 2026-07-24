@@ -70,19 +70,7 @@ The dashboard contains
 
 ---
 
-## Screenshots
 
-### Dashboard
-
-![Dashboard](Screenshots/Dashboard.png)
-
-### Asset List
-
-![Assets](Screenshots/Asset_List.png)
-
-### Reports
-
-![Reports](Screenshots/Reports.png)
 
 ---
 
