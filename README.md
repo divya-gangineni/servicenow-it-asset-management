@@ -76,6 +76,6 @@ Successfully developed a complete IT Asset Management application using ServiceN
 
 ---
 
-## Author
+## Developed by
 
-Your Name
+Divya Gangineni
