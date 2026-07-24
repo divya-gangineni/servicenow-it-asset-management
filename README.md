@@ -70,10 +70,6 @@ The dashboard contains
 
 ---
 
-
-
----
-
 ## Project Outcome
 
 Successfully developed a complete IT Asset Management application using ServiceNow Zurich with custom tables, reports, dashboards, and analytics.
